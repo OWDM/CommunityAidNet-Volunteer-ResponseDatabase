@@ -36,9 +36,3 @@ We welcome contributions from the community. Whether it's improving the database
 3. Commit your changes with clear, descriptive messages.
 4. Push your changes and open a pull request.
 
-### Code of Conduct
-Please refer to the `CODE_OF_CONDUCT.md` for guidelines on participation in our community.
-
-## License
-This project is licensed under the (Your License Here) - see the `LICENSE` file for details.
-
